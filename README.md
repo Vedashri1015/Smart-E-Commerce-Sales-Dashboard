@@ -1,4 +1,4 @@
-Smart Sales Ecommerce Dashboard
+<h1>Smart Sales Ecommerce Dashboard</h1>
 Project Overview
 I designed an interactive Smart Sales Ecommerce Dashboard using Power BI. This dashboard provides valuable insights and analytics for ecommerce sales, enabling data-driven decision-making to optimize retail operations.
 
