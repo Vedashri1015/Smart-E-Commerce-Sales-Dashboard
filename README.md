@@ -1,11 +1,11 @@
 <h1>Smart Sales Ecommerce Dashboard</h1>
-Project Overview
+<h2>Project Overview</h2>
 I designed an interactive Smart Sales Ecommerce Dashboard using Power BI. This dashboard provides valuable insights and analytics for ecommerce sales, enabling data-driven decision-making to optimize retail operations.
 
-Key Features
-Data Transformation:
+<h2>Key Features</h2>
+<h3>Data Transformation:</h3>
 Utilized DAX functions and ETL processes in Power Query for efficient data cleaning and transformation.
-Custom Visualizations:
+<h3></h3>Custom Visualizations:
 Included over 15 visualizations such as cards, donut charts, bar charts, pie charts, clustered bar charts, scatter charts, line charts, area charts, and maps.
 KPI Indicators:
 Visualized essential KPIs like total sales, average order value, customer acquisition cost, and return on investment.
